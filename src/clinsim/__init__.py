@@ -1,5 +1,5 @@
 """Top-level package for clinsim."""
 
-from .core import simulate
+# from .core import simulate
 
-__all__ = ["simulate"]
+# __all__ = ["simulate"]
